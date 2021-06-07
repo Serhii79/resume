@@ -56,7 +56,8 @@ body {
   color: #616974;
 }
 
-.contacts-link-type {
+.contacts-link-type,
+.tech-skills-type {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
